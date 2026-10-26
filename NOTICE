@@ -1,0 +1,28 @@
+alimtalk-kit
+Copyright 2026 JunDev76 (https://github.com/JunDev76)
+
+This product includes software developed by JunDev76.
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+Redistributions and derivative works must retain this NOTICE file's attribution
+as required by Section 4(d) of the Apache License, Version 2.0.
+
+----------------------------------------------------------------------
+Bundled third-party materials (each keeps its own license)
+
+- Spoqa Han Sans (skills/alimtalk-kit/assets/fonts)
+  Copyright (c) 2015 Spoqa, Inc.
+  SIL Open Font License 1.1 - see skills/alimtalk-kit/assets/fonts/LICENSE_OFL.txt
+
+- Lucide icons (skills/alimtalk-kit/assets/icons)
+  Copyright (c) Lucide Icons and Contributors
+  ISC License - see skills/alimtalk-kit/assets/icons/LICENSE-lucide.txt
+
+----------------------------------------------------------------------
+Not covered by the Apache License 2.0
+
+- docs/examples/text-academing.png and docs/examples/icon-attendance.png
+  contain the Academing character/brand color. They are used for example
+  purposes only and remain the property of their owner.
+- Kakao assets (icons, PSD, Sketch) are NOT included in this repository.
+  They are owned by Kakao and may only be used for Kakao Alimtalk messages.

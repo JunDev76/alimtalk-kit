@@ -1,0 +1,25 @@
+{
+ "배송완료": {
+  "style": "outline",
+  "badge": "check"
+ },
+ "주문완료": {
+  "style": "outline",
+  "badge": "check"
+ },
+ "쿠폰확인": {
+  "style": "outline",
+  "badge": "check"
+ },
+ "적립금소멸": {
+  "style": "outline",
+  "badge": "alert"
+ },
+ "환불완료": {
+  "style": "outline",
+  "badge": "check"
+ },
+ "완료": {
+  "style": "fill"
+ }
+}

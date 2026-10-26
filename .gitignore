@@ -1,0 +1,6 @@
+node_modules/
+*.log
+.DS_Store
+# 카카오 공식 에셋은 레포에 포함하지 않는다 (알림톡 외 재배포 금지)
+*.psd
+*.sketch
